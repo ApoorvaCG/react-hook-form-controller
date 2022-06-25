@@ -4,7 +4,9 @@ This repo helps you understand how we can use Controller component exported by r
 
 Integrating the same with UI laibraries, material-ui and react-select
 
-Check out this blog here,
+Know more here,
 https://dev.to/apoorvacg/react-hook-form-with-controllers-16k3
+
+In the project directory, do `npm install` or `yarn install` to get started
 
 Created with CodeSandbox
