@@ -9,4 +9,4 @@ https://dev.to/apoorvacg/react-hook-form-with-controllers-16k3
 
 In the project directory, do `npm install` or `yarn install` to get started
 
-Created with CodeSandbox
+Created with CodeSandbox - [link](https://codesandbox.io/p/sandbox/react-hook-form-v7-controller-z4js1o)
